@@ -306,6 +306,7 @@
 		323D83E0231D185400C5BFC6 /* WKWebView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WKWebView+AFNetworking.h"; sourceTree = "<group>"; };
 		323D83E1231D185400C5BFC6 /* WKWebView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WKWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		323D83E4231D188400C5BFC6 /* AFWKWebViewTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFWKWebViewTests.m; sourceTree = "<group>"; };
+		37CE10562BA0306400C1C220 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		439E280C247E16DE004467ED /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		439E280D247E16DE004467ED /* Gemfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; indentWidth = 2; lineEnding = 0; path = Gemfile; sourceTree = SOURCE_ROOT; tabWidth = 2; };
 		439E280E247E16DE004467ED /* Gemfile.lock */ = {isa = PBXFileReference; explicitFileType = text.yaml; fileEncoding = 4; indentWidth = 2; lineEnding = 0; path = Gemfile.lock; sourceTree = SOURCE_ROOT; tabWidth = 2; };
@@ -526,6 +527,7 @@
 				439E280C247E16DE004467ED /* LICENSE */,
 				439E2813247E16DE004467ED /* Package.swift */,
 				439E2810247E16DE004467ED /* README.md */,
+				37CE10562BA0306400C1C220 /* PrivacyInfo.xcprivacy */,
 			);
 			name = "Supporting Files";
 			path = AFNetworking;
