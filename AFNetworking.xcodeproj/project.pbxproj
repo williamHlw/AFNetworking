@@ -488,6 +488,7 @@
 		2995222F1BBF104D00859F49 = {
 			isa = PBXGroup;
 			children = (
+				37CE10572BA03D7600C1C220 /* privacy */,
 				299522451BBF125A00859F49 /* AFNetworking */,
 				299522851BBF13C700859F49 /* UIKit+AFNetworking */,
 				2995223B1BBF104D00859F49 /* Supporting Files */,
@@ -527,7 +528,6 @@
 				439E280C247E16DE004467ED /* LICENSE */,
 				439E2813247E16DE004467ED /* Package.swift */,
 				439E2810247E16DE004467ED /* README.md */,
-				37CE10562BA0306400C1C220 /* PrivacyInfo.xcprivacy */,
 			);
 			name = "Supporting Files";
 			path = AFNetworking;
@@ -577,6 +577,14 @@
 				323D83E1231D185400C5BFC6 /* WKWebView+AFNetworking.m */,
 			);
 			path = "UIKit+AFNetworking";
+			sourceTree = "<group>";
+		};
+		37CE10572BA03D7600C1C220 /* privacy */ = {
+			isa = PBXGroup;
+			children = (
+				37CE10562BA0306400C1C220 /* PrivacyInfo.xcprivacy */,
+			);
+			path = privacy;
 			sourceTree = "<group>";
 		};
 		5F4323B21BF63741003B8749 /* Google.com */ = {
